@@ -1,0 +1,14 @@
+
+.image-profile{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin: 0;
+    border: 1px solid black;
+    transition: 0.5s ease;
+}
+
+.image-profile:hover{
+    opacity: 0.8;
+}

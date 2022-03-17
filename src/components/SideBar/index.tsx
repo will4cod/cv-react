@@ -1,4 +1,4 @@
-// import { ReactComponent as Perfil } from 'assets/img/perfil.png';
+import ImageProfile from 'components/ImageProfile';
 import './style.css';
 
 function SideBar() {
@@ -7,7 +7,8 @@ function SideBar() {
         <div className='barra-lateral'>
             <p>barra lateral</p>
 
-            {/* <Perfil /> */}
+            <ImageProfile />
+
         </div>
     );
 
