@@ -1,9 +1,11 @@
 import React from 'react';
+import SideBar from './components/SideBar';
 
 function App() {
   return (
-    <p>cv</p>
-  );
+
+    <SideBar />
+    );
 }
 
 export default App;
