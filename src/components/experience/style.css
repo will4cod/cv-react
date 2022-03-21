@@ -1,0 +1,36 @@
+.expirence{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title{
+    font-weight: 300;
+    font-size: 25px;
+    color: green;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.function{
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.company{
+    display: flex;
+}
+
+.company p{
+    font-weight: 15px;
+    color: darkgray;
+    text-transform: capitalize;
+}
+
+.description{
+    font-family: sans-serif;
+    text-transform: lowercase;
+}
+
+.description::first-letter{
+    text-transform: capitalize;
+}

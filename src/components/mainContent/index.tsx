@@ -1,3 +1,4 @@
+import Expirence from "components/experience";
 import Yourself from "components/yourself";
 
 function MainContent(){
@@ -7,6 +8,7 @@ function MainContent(){
 
             <Yourself />
 
+            <Expirence />
         </div>
     );
 }
