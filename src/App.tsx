@@ -1,11 +1,15 @@
-import React from 'react';
+import './App.css';
+import MainContent from 'components/mainContent';
 import SideBar from './components/SideBar';
 
 function App() {
   return (
 
-    <SideBar />
-    );
+    <div className='app-display'>
+      <SideBar />
+      <MainContent />
+    </div>
+  );
 }
 
 export default App;

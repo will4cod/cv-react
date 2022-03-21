@@ -11,12 +11,3 @@
     border-left: 1px solid;
     border-right: 1px solid;
 }
-
-.image-profile{
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-    background-color: white;
-    margin: 0;
-    border: 1px solid black;
-}
