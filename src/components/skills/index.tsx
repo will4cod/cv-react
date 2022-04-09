@@ -1,3 +1,5 @@
+import SkillGroup from "components/skillGroup";
+import './style.css';
 
 function Skills() {
 
@@ -6,7 +8,7 @@ function Skills() {
         <div className="skills">
             <h2>Skills</h2>
 
-            <h3>Skill group</h3>
+            <SkillGroup />
 
         </div>
 

@@ -1,0 +1,16 @@
+.skills-group{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.points{
+    display: flex;
+    width: 20vw;
+    justify-content: space-between;
+}
+
+.skills-points{
+    display: flex;
+    flex-direction: row;
+}

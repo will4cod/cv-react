@@ -3,10 +3,7 @@
     font-weight: 300;
     font-size: 25px;
     color: green;
+    text-transform: uppercase;
+    margin-bottom: 5px;
 }
 
-.skills h3{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
-    font-size: 20px;
-}

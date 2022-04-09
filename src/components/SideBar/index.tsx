@@ -1,4 +1,5 @@
 import ImageProfile from 'components/ImageProfile';
+import Skills from 'components/skills';
 import './style.css';
 
 function SideBar() {
@@ -9,6 +10,7 @@ function SideBar() {
 
             <ImageProfile />
 
+            <Skills />
         </div>
     );
 
