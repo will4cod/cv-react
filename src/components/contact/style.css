@@ -1,0 +1,35 @@
+.contact{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 20px;
+    width: 20vw;
+}
+
+.title{
+    font-weight: 300;
+    font-size: 25px;
+    color: green;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.dados{
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 3px;
+}
+
+.dados p{
+    font-size: 14px;
+}
+
+.dados a{
+    text-decoration: none;
+    display: flex;
+}
+
+.icon{
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+}
