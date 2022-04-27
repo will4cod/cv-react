@@ -4,18 +4,6 @@ import Yourself from "components/yourself";
 
 function MainContent() {
 
-    const education =
-    {
-        curso: "teste",
-        escola: "school",
-        ano: "2019",
-        cidade: "Franco da rocha",
-        descricao: "alo"
-    }
-
-
-    console.log(typeof education.curso);
-
     return (
         <div className="main-content">
 
@@ -23,9 +11,9 @@ function MainContent() {
 
             <Expirence />
 
-            <Education curso={education.curso} escola= {education.escola} ano={education.ano} cidade={education.cidade} descricao={education.descricao} />
+            <Education />
         </div>
     );
 }
 
-export default MainContent
+export default MainContent;
