@@ -5,7 +5,7 @@ import './style.css';
 function EducationCard(props:Educations) {
 
     return(
-        <div>
+        <div className='content'>
 
             <p className='course'>{props.curso}</p>
 

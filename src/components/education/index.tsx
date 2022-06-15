@@ -12,7 +12,7 @@ function Education(){
             escola: "Digital House Brasil",
             ano: "2021 - 2021",
             cidade: "São paulo",
-            descricao: "Tecnico"
+            descricao: "aprendendo desde a base tanto para o frontend quanto para o backend, aprendndo na pratica HTML, CSS, JavaScript, Nodejs, GIT e MySql."
         },
         {
             id: 2,
@@ -20,7 +20,7 @@ function Education(){
             escola: "Universidade Paulista",
             ano: "2018 - 2019",
             cidade: "São paulo",
-            descricao: "Tecnólogo"    
+            descricao: "Desenvolvendo a logica de programação, aprendendos conceitos de gestão de projeto e aprendendo C# e MySql."    
         }, 
         {
             id: 3,
@@ -28,7 +28,7 @@ function Education(){
             escola: "Etec Dr. Emílio Hernandez Aguilar",
             ano: "2015 - 2017",
             cidade: "Franco da rocha",
-            descricao: "Tecnico"    
+            descricao: "Primeiro contato com o desenvolvimento, aprendendo conceitos e entendo o que é logica de programação. Tendo o primeiro contato com as tecnologias C#, MySql e a parte web."    
         }
 
     ]
